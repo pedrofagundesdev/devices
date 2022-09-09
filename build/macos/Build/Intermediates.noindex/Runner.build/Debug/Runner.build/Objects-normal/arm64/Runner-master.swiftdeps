@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "3beccf40bc91ed8a28c1bed30bf0158750f450f783a70764f4ec7f4030216a04"
+build_start_time: [1662604607, 393954992]
+build_end_time: [1662604613, 680521011]
+inputs:
+  "/Users/pedrohenriqueferreirafagundes/Documents/flut/estoque/devices/macos/Flutter/GeneratedPluginRegistrant.swift": [1662604584, 160597085]
+  "/Users/pedrohenriqueferreirafagundes/Documents/flut/estoque/devices/macos/Runner/AppDelegate.swift": [1661879069, 0]
+  "/Users/pedrohenriqueferreirafagundes/Documents/flut/estoque/devices/macos/Runner/MainFlutterWindow.swift": [1661879069, 0]
